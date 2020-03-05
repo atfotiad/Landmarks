@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "692668632744",
+    "firebase_url": "https://landmarks-41508.firebaseio.com",
+    "project_id": "landmarks-41508",
+    "storage_bucket": "landmarks-41508.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692668632744:android:a2f648af54dead3d",
+        "android_client_info": {
+          "package_name": "com.atfotiad.landmarks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "692668632744-oo179mvp43bimoq2q21ok40vfvoqdjgv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.atfotiad.landmarks",
+            "certificate_hash": "30911aa9b2a964fb5f983f4dad9c987120ce760c"
+          }
+        },
+        {
+          "client_id": "692668632744-0jqjkirlv00lvafthrfabslgaj8g3777.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3NHu-0AO8QoGidYLaG585UA1uIiIlkwI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "692668632744-0jqjkirlv00lvafthrfabslgaj8g3777.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
